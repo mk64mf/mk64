@@ -5,8 +5,6 @@ Go to mk64mf.github.io/mk64/index.htm for the Site itself!
 
 Todo:
 
--Add Rom Hack downloads
-
 -Add the Rom Hacks themselves
 
 -Add Vanilla MK64 Category Extentions kind of thing
