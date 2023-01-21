@@ -14,3 +14,5 @@ Todo:
 -World Record Counter of some sorts, perhabs a page?
 
 -PB History somehow
+
+-Add All Cups for rom hacks :)
