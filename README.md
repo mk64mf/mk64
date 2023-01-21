@@ -19,4 +19,6 @@ Todo:
 
 -Add Rom Hack Track Leaderboard
 
-==Maybe add a Player Ranking for each Rom Hack
+-Players Page
+
+-Player Rankings
