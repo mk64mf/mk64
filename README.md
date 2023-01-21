@@ -5,9 +5,7 @@ Todo:
 
 -Add Rom Hack downloads
 
-
 -Add the Rom Hacks themselves
-
 
 -Add Vanilla MK64 Category Extentions kind of thing
 
@@ -16,10 +14,8 @@ Todo:
 ==PAL 50cc All Cups No Skips DK (maybe the same just with NTSC)
   
 ==(More to find)
-
   
 -Finish Submit/Join Section
-
 
 -Add Rom Hack Track Leaderboard
 
