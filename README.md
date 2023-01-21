@@ -1,6 +1,8 @@
 # mk64
 Mario Kart 64 - Extended Leaderboard
 
+Go to mk64mf.github.io/mk64/index.htm for the Site itself!
+
 Todo:
 
 -Add Rom Hack downloads
