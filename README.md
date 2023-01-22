@@ -11,12 +11,6 @@ Todo:
   
 ==(More to find)
 
--Add Rom Hack Track Leaderboard
-
--World Record Counter of some sorts, perhabs a page?
-
--PB History somehow
-
 -Add All Cups for rom hacks :)
 
 -Finish Town Leaderboard
