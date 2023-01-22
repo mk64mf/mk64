@@ -1,7 +1,7 @@
 # mk64
 Mario Kart 64 - Extended Leaderboard
 
-Test Version Coming on 22nd of January 2023!
+Test Version Coming on 27/01/2023 - 29/01/2023!
 
 Go to mk64mf.github.io/mk64/index.htm for the Site itself!
 
