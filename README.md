@@ -20,3 +20,5 @@ Todo:
 -Finish Amped Up Leaderboard
 
 -Finish OverKart64 Leaderboard
+
+-Add Seafront Lagoon, Snowy Mountain, Hyrule Field and Jerod Kart 64 (Likely one of the last things I will do)
