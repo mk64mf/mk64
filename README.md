@@ -13,10 +13,6 @@ Todo:
 
 -Add All Cups for rom hacks :)
 
--Finish Town Leaderboard
-
--Finish Garage Leaderboard
-
 -Finish Amped Up Leaderboard
 
 -Finish OverKart64 Leaderboard
