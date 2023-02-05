@@ -1,8 +1,6 @@
 # mk64
 Mario Kart 64 - Extended Leaderboard
 
-Test Version Coming on 27/01/2023 - 29/01/2023!
-
 Go to mk64mf.github.io/mk64/index.htm for the Site itself!
 
 Todo:
@@ -12,9 +10,5 @@ Todo:
 ==(More to find)
 
 -Add All Cups for rom hacks :)
-
--Finish Amped Up Leaderboard
-
--Finish OverKart64 Leaderboard
 
 -Add Seafront Lagoon, Snowy Mountain, Hyrule Field and Jerod Kart 64 (Likely one of the last things I will do)
